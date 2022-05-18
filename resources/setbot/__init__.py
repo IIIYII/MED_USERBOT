@@ -1,3 +1,3 @@
 # import setbot!
 from ._setbot import *
-# Owner ~ @RallsThon 
+# Owner ~ @MedThon 
