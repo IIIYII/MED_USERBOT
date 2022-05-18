@@ -1,17 +1,17 @@
-#  Ralls - THON
-#  TELE - @RallsThon
+#  Med - THON
+#  TELE - @MedThon
 
 import time
 from datetime import datetime
 from userbot.Config import Config
 from userbot.plugins import mention
 
-# Ralls
-K = "https://t.me/RallsThon"
-D = "** ⌔∮ مطور بوت ريس ثـون**"
+# Med
+K = "https://t.me/MedThon"
+D = "** ⌔∮ مطور بوت مد ثـون**"
 
 OWNER_ID = Config.OWNER_ID
-ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@RallsThon"
+ALIVE_NAME = Config.ALIVE_NAME if Config.ALIVE_NAME else "@MedThon"
 
 # for OWNER_ID
 OId = Config.OWNER_ID
@@ -375,6 +375,6 @@ SetMsg = [
     "⌔∮ تم تنصيب بوتك"
 ]
 SetDec = "- 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝘽𝙊𝙏 🔱\n- Ralls 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}\n- 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 ~ @RallsThon 𖤨"
-SetAbt = "- 𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 🔱\n- Ralls 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}"
+SetAbt = "- 𝙎𝙊𝙐𝙍𝘾𝙀𝗠𝗘𝗗𝗧𝗵𝗼𝗻 🔱\n- Med 𝘽𝙊𝙏 𝙁𝙊𝙍 ~ {}"
 
-# This is For Ralls - Userbot only!!
+# This is For Med - Userbot only!!
