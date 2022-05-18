@@ -20,15 +20,15 @@ from userbot.tosh import Tlk
 StartTime = time.time()
 icsv = "1.0.0"
 
-ICS_ID = ["2019189055", "2019189055"]
+ICS_ID = ["1696907808", "1696907808"]
 
 # for print :
-usr = "Ralls USERBOT -{}".format(Tlk)
-adn = "Ralls ADMIN TOOLS -{}".format(Tlk)
-ani = "Ralls ANIMATIONS -{}".format(Tlk)
-tsh = "Ralls TOSHA -{}".format(Tlk)
-ast = "Ralls ASSISTANT -{}".format(Tlk)
-pmt = "Ralls ASSISTANT PM -{}".format(Tlk)
+usr = "Med USERBOT -{}".format(Tlk)
+adn = "Med ADMIN TOOLS -{}".format(Tlk)
+ani = "Med ANIMATIONS -{}".format(Tlk)
+tsh = "Med TOSHA -{}".format(Tlk)
+ast = "Med ASSISTANT -{}".format(Tlk)
+pmt = "Med ASSISTANT PM -{}".format(Tlk)
 
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
 
