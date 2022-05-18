@@ -1,5 +1,5 @@
-#    Ralls - USERBOT
-#    @QQ070 - @QQ070
+#    Med - USERBOT
+#    @L_U_2 - @L_U_2 
 
 import asyncio
 import os
