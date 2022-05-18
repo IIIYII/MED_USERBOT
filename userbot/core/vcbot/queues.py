@@ -2,7 +2,7 @@
 # Copyright (c) 2022 Med_USERBOT
 # Credits: @MedThon || https://github.com/MedThon
 #
-# This file is a part of < https://github.com/MedThon/Med_USERBOT/ >
+# This file is a part of < https://github.com/IIIYII/Med_USERBOT >
 # t.me/MedThon & t.me/L_U_2
 
 QUEUE = {}
