@@ -1,4 +1,4 @@
-# Ralls - UserBot
+# Med - UserBot
 # format for plugins
 
 import math
@@ -20,18 +20,18 @@ from userbot.Config import Config
 from userbot.helpers import *
 from userbot.helpers import _format, _icsstools, _icssutils
 
-# =================== Owner - QQ070 ===================
+# =================== Owner - L_U_2 ===================
 
 USERID = bot.uid if Config.OWNER_ID == 0 else Config.OWNER_ID
 ALIVE_NAME = Config.ALIVE_NAME
 AUTONAME = Config.AUTONAME
 DEFAULT_BIO = Config.DEFAULT_BIO
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Ralls Userbot"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Med Userbot"
 BOT_USERNAME = Config.TG_BOT_USERNAME
 ICSBOT = Config.TG_BOT_USERNAME
 ICSB = Config.TG_BOT_USERNAME
 
-# =================== Owner - QQ070 ===================
+# =================== Owner - L_U_2 ===================
 
 # mention user
 mention = f"[{DEFAULTUSER}](tg://user?id={USERID})"
@@ -42,17 +42,17 @@ TOSHA_ID = bot.me.id
 
 # Dev tag
 tosh = ( 
-    "𓆩 𝑺𝑶𝑼𝑹𝑪𝑬 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉 - 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𓆪\n"
-    "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
-    "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 1 ↬ @QQ070 ༗\n"
-    "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 2 ↬ @IllIl1I ༗\n"
-    "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻"
+    "𓆩 𝑺𝑶𝑼𝑹𝑪𝑬 𝗠𝗘𝗗𝙏𝙃𝙊𝙉 - 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𓆪\n"
+    "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝗠𝗘𝗗𝙏𝙃𝙊𝙉ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻\n"
+    "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 1 ↬ @L_U_2 ༗\n"
+    "𓄂†  𝑫𝑬𝑽 𝑼𝑺𝑬𝑹 2 ↬ @AlllIllIll ༗\n"
+    "𓍹ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𝗠𝗘𝗗𝙏𝙃𝙊𝙉ⵧⵧⵧⵧⵧⵧⵧⵧⵧ𓍻"
 )
 
 # بلاي 
 R = (
-    "**𓆰**  𝙎𝙊𝙐𝙍𝘾𝙀 𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉   **العـاب الاونلايـن** 🎮𓆪 \n"
-    "◐━─━─━─━─𝐑𝐀𝐈𝐈𝐒─━─━─━─━◐\n\n"
+    "**𓆰**  𝙎𝙊𝙐𝙍𝘾𝙀 𝗠𝗘𝗗𝙏𝙃𝙊𝙉   **العـاب الاونلايـن** 🎮𓆪 \n"
+    "◐━─━─━─━─𝗠𝗘𝗗─━─━─━─━◐\n\n"
     "  ❶ **⪼**  [حرب الفضاء 🛸](https://t.me/gamee?game=ATARIAsteroids)   \n"
     "  ❷ **⪼**  [لعبة فلابي بيرد 🐥](https://t.me/awesomebot?game=FlappyBird)   \n"
     "  ❸ **⪼**  [القط المشاكس 🐱](https://t.me/gamee?game=CrazyCat)   \n"
@@ -72,16 +72,16 @@ R = (
     "  ⓱ **⪼**  [جيت واي 🚨](https://t.me/gamee?game=Getaway)   \n"
     "  ⓲ **⪼**  [الالـوان 🔮](https://t.me/gamee?game=ColorHit)   \n"
     "  ⓳ **⪼**  [مدفع الكرات🏮](https://t.me/gamee?game=NeonBlaster)   \n\n\n"
-    "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [𐇮 الريـــس علـــش 𐇮](t.me/QQ070)   \n"
-    "**𓆰** 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 **⪼**  [𝐑𝐀𝐈𝐈𝐒𝙏𝙃𝙊𝙉](https://t.me/RallsThon)  "
+    "**𓄂-** 𝙎𝙊𝙐𝙍𝘾𝙀 𝘿𝙀𝙑 **⪼**  [𐇮 الريـــس حــ۫͜ـســﻭ 𐇮](t.me/L_U_2)   \n"
+    "**𓆰** 𝙎𝙊𝙐𝙍𝘾𝙀 𝙍𝙀𝙋𝙊 **⪼**  [𝗠𝗘𝗗𝙏𝙃𝙊𝙉](https://t.me/MedThon)  "
 )
-K = "https://github.com/Rallsthon/Ralls_USERBOT"
+K = "https://github.com/IIIYII/Med_USERBOT"
 
 # Alive Bot 
 TOSH = (
-       f"**⌔∮ بوت ريس ثـون يعمل بنجاح 🖤❕**\n"
+       f"**⌔∮ بوت مد ثـون يعمل بنجاح 🖤❕**\n"
        f"**   - اصدار التليثون :** `{version.__version__}\n`"
-       f"**   - اصدار ريس ثـون :** `{icsv}`\n"
+       f"**   - اصدار مد ثـون :** `{icsv}`\n"
        f"**   - البوت المستخدم :** `{ICSB}`\n"
        f"**   - اصدار البايثون :** `{python_version()}\n`"
        f"**   - المستخدم :** {mention}\n"
@@ -219,7 +219,7 @@ async def icsa():
         dyno = f"{AppHours}h {AppMinutes}m/{hours}h {minutes}m"
     except Exception as e:
         dyno = e
-    return f"**⌔∮ معلومات بوت ريس ثـون***\
+    return f"**⌔∮ معلومات بوت مد ثـون***\
                  \n - قاعده البيانات : {check_sgnirts}\
                   \n - سودو : {sudo}\
                   \n - مدة التشغيل : {uptime}\
