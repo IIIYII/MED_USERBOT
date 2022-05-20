@@ -8,7 +8,7 @@ from telethon.tl.types import MessageEntityMentionName
 from telethon.utils import get_input_location
 
 TMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
-Med_TEXT = Config.CUSTOM_ALIVE_TEXT or "╮•⎚ مـعلومات الـشخص مـن بـوت ريسثـون"
+Med_TEXT = Config.CUSTOM_ALIVE_TEXT or "╮•⎚ مـعلومات الـشخص مـن بـوت مدثـون"
 MedM = Config.CUSTOM_ALIVE_EMOJI or " •❃ "
 
 @bot.on(admin_cmd(pattern="ا(?: |$)(.*)"))
