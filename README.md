@@ -29,6 +29,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
   
 ## Dev
-   <a href="https://t.me/L_U_2"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
-الرــس علــش 𐇮
+   <a href="https://t.me/L_U_2"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p> الريــس حسو 𐇮
 
