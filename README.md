@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/MedThon"><img src="https://telegra.ph/file/9e9e1cd623335a9c5772d.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/MedThon"><img src="https://telegra.ph/file/63131bedbcec1fcd555f0.jpg" width="5000"></a></p> 
 <h1 align="center"><b>Med_USERBOT 🇮🇶 </b></h1>
 <h4 align="center">𓆰♥️🧸 𝐖𝐞𝐥𝐂𝐨𝐦𝐞 𝑻𝐨 𝙎𝙊𝙐𝙍𝘾𝞝_𝗠𝗘𝗗𝗧𝗵𝗼𝗻 ↷.</h4>
 
