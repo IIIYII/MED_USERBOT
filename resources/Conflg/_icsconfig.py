@@ -1,4 +1,4 @@
-#    Ralls - THON
+#    Med- THON
 
 import os
 from telethon.tl.types import ChatBannedRights
@@ -22,7 +22,7 @@ class Config(object):
     TOSH_START = os.environ.get("TOSH_START", None)
     TZ = os.environ.get("TZ", "Asia/Baghdad")
     UPSTREAM_REPO = os.environ.get(
-        "UPSTREAM_REPO", "https://github.com/raiis1/Ralls_USERBOT.git"
+        "UPSTREAM_REPO", "https://github.com/IIIYII/Med_USERBOT.git"
     )
 
     AUTONAME = os.environ.get("AUTONAME", None)
